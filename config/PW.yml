@@ -1,0 +1,2 @@
+secret_user: <%ENV= ['admin'] %>
+secret_password: <%ENV= ['12345'] %>
